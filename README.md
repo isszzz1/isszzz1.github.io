@@ -10,7 +10,6 @@ A responsive, dark-themed personal portfolio website built with HTML, CSS and Ja
 - Career Goals & Development
 - Connect With Me
 
-This version intentionally does **not** include a Projects section.
 
 ## Files
 ```text
